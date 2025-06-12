@@ -23,7 +23,8 @@ A heartfelt interactive memory web page created to celebrate and cherish unforge
 ├── script.js # Script to handle transitions and flip effects
 ├── assets/
 │ ├── images/ # Folder for memory images (pic0.jpg, pic1.jpg, ...)
-│ └── audio/ world.mp3
+│ └── world.mp3 #background music
+
 
 
 
