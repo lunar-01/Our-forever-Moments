@@ -24,3 +24,20 @@ A heartfelt interactive memory web page created to celebrate and cherish unforge
 ├── assets/
 │ ├── images/ # Folder for memory images (pic0.jpg, pic1.jpg, ...)
 │ └── audio/ world.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
